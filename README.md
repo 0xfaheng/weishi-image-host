@@ -1,3 +1,12 @@
+<!-- 0xfaheng-brand:start -->
+**0xfaheng · weishi-image-host**
+
+[品牌主页与全部公开项目](https://github.com/lairulan) · [当前仓库](https://github.com/lairulan/weishi-image-host)
+
+<!-- 0xfaheng-brand:end -->
+
+---
+
 # 公众号图床（host5）
 
 2026-08-29 新建，替代 `sangeng-ai-image-host`（该仓库已达 1.28 GB，git pull 频繁超时）。
