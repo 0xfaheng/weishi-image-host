@@ -3,9 +3,9 @@
 
 > 0xfaheng · 上海封阳科技创始人
 
-[品牌主页与全部公开项目](https://github.com/lairulan) · [当前仓库](https://github.com/lairulan/weishi-image-host)
+[品牌主页与全部公开项目](https://github.com/0xfaheng) · [当前仓库](https://github.com/0xfaheng/weishi-image-host)
 
-微信：`faheng2009` · [X @0xfaheng](https://x.com/0xfaheng) · [YouTube @0xfaheng](https://www.youtube.com/@0xfaheng) · [微信二维码](https://github.com/lairulan#联系与关注)
+微信：`faheng2009` · [X @0xfaheng](https://x.com/0xfaheng) · [YouTube @0xfaheng](https://www.youtube.com/@0xfaheng) · [微信二维码](https://github.com/0xfaheng#联系与关注)
 
 <!-- 0xfaheng-brand:end -->
 
@@ -23,10 +23,10 @@
 2. **无损原件不进图床**：PNG 原件留在各项目工作区作审计原件。
 3. 目录结构：`images/<账号>/<plan-id>/<角色>.jpg`
 4. URL 按 commit SHA 固定引用：
-   `https://cdn.jsdelivr.net/gh/lairulan/weishi-image-host@<commit_sha>/images/...`
+   `https://cdn.jsdelivr.net/gh/0xfaheng/weishi-image-host@<commit_sha>/images/...`
 5. 克隆用稀疏方式，避免重蹈全量克隆超时：
    ```
-   git clone --filter=blob:none --no-checkout https://github.com/lairulan/weishi-image-host.git
+   git clone --filter=blob:none --no-checkout https://github.com/0xfaheng/weishi-image-host.git
    git sparse-checkout init --cone && git sparse-checkout set images/<账号>
    git checkout main
    ```
